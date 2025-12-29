@@ -171,36 +171,3 @@ Contributions are welcome! Please follow these steps:
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Vishal** - *Initial work*
-- **Parth Raninga** - *Repository Owner*
-
-## 🙏 Acknowledgments
-
-- Sign language community for inspiration and feedback
-- Open source contributors for amazing tools and libraries
-- All users helping to bridge communication barriers
-
-## 📧 Contact & Support
-
-For questions, suggestions, or support:
-- Open an issue on GitHub
-- Contact the development team
-
-## 🗺️ Roadmap
-
-- [ ] Mobile app development (iOS/Android)
-- [ ] Support for multiple sign languages (ASL, BSL, ISL, etc.)
-- [ ] Offline mode capability
-- [ ] Video call integration
-- [ ] Community features and user profiles
-- [ ] Advanced AI model improvements
-- [ ] Multi-language text output support
-
-## 📊 Project Status
-
-🚧 **Active Development** - This project is actively maintained and regularly updated with new features and improvements.
-
----
