@@ -204,9 +204,3 @@ For questions, suggestions, or support:
 🚧 **Active Development** - This project is actively maintained and regularly updated with new features and improvements.
 
 ---
-
-<div align="center">
-  <strong>Breaking barriers, one sign at a time 🤟</strong>
-  <br>
-  Made with ❤️ for the sign language community
-</div>
